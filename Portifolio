@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>Meu portfólio</title>
+</head>
+
+<body>
+    <header class="container text-center">
+        
+
+        <p class="lead">Eu sou Esmael</p>
+        <h1>Eu estou aprendendo Programação</h1>
+        <p>Sou aluno do Charles de Gaulle</p>
+        <p>Minhas habilidades</p>
+       
+    </header>
+    <main class="container mt-5">
+        <h2>Meus projetos</h2>
+        <div class="row">
+            <!-- Projeto 1 -->
+        </div>
+    </main>
+
+</body>
+
+</html>
