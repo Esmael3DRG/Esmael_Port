@@ -12,7 +12,8 @@
         <p class="lead">Eu sou Esmael</p>
         <h1>Eu estou aprendendo Programação</h1>
         <p>Sou aluno do Charles de Gaulle</p>
-        <p>Minhas habilidades</p>
+        <p>Meus interesses</p>
+        <p>Progamação, Speedruns, voleibol, Pokemon.</p>
        
     </header>
     <main class="container mt-5">
