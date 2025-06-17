@@ -12,17 +12,11 @@
         <p class="lead">Eu sou Esmael</p>
         <h1>Eu estou aprendendo Programação</h1>
         <p>Sou aluno do Charles de Gaulle</p>
-        <p>Meus interesses</p>
-        <p>Speedruns, Jogos de co-op, .</p>
+        <p>Meus projetos</p>
+        
        
     </header>
-    <main class="container mt-5">
-        <h2>Meus projetos</h2>
-        <div class="row">
-            <!-- Projeto 1 -->
-        </div>
-    </main>
-
+   
 </body>
 
 </html>
